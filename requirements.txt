@@ -1,2 +1,5 @@
-python-dotenv
-pytest
+exif
+
+streamlit
+watchdog
+pandas
