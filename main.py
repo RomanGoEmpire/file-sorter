@@ -15,7 +15,6 @@ for file in files:
         with open(year_md_file, "w") as f:
             f.write(
                 """**Links:** [[Photos Album]]
-                    
                     """
             )
 
