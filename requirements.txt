@@ -3,3 +3,9 @@ exif
 streamlit
 watchdog
 pandas
+
+jupyter
+tqdm
+plotly
+pandas
+seaborn

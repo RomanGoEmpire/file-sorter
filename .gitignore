@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 .DS_Store
+images_with_exif/
+images_with_no_exif/
